@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/linechart/static/css/main.7037b4b6.css",
-    "main.js": "/linechart/static/js/main.fca956d3.js",
+    "main.js": "/linechart/static/js/main.db98be1e.js",
     "static/js/453.e79745b6.chunk.js": "/linechart/static/js/453.e79745b6.chunk.js",
     "index.html": "/linechart/index.html",
     "main.7037b4b6.css.map": "/linechart/static/css/main.7037b4b6.css.map",
-    "main.fca956d3.js.map": "/linechart/static/js/main.fca956d3.js.map",
+    "main.db98be1e.js.map": "/linechart/static/js/main.db98be1e.js.map",
     "453.e79745b6.chunk.js.map": "/linechart/static/js/453.e79745b6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7037b4b6.css",
-    "static/js/main.fca956d3.js"
+    "static/js/main.db98be1e.js"
   ]
 }
