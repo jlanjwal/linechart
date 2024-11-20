@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/linechart/static/css/main.7037b4b6.css",
+    "main.js": "/github.io/linechart/static/js/main.ae98639b.js",
+    "static/js/453.e79745b6.chunk.js": "/github.io/linechart/static/js/453.e79745b6.chunk.js",
+    "index.html": "/github.io/linechart/index.html",
+    "main.7037b4b6.css.map": "/github.io/linechart/static/css/main.7037b4b6.css.map",
+    "main.ae98639b.js.map": "/github.io/linechart/static/js/main.ae98639b.js.map",
+    "453.e79745b6.chunk.js.map": "/github.io/linechart/static/js/453.e79745b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7037b4b6.css",
+    "static/js/main.ae98639b.js"
+  ]
+}
