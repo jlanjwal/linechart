@@ -1,0 +1,51 @@
+.child1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.radioButtons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.radioButton {
+    margin: 5px
+}
+
+.dropdown {
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+}
+
+.tooltip {
+    position: absolute;
+    visibility: hidden;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 12px;
+}
+
+.openLine {
+    fill: none;
+    stroke: #b2df8a;
+    stroke-width: 3;
+}
+
+.closeLine {
+    fill: none;
+    stroke: #e41a1c;
+    stroke-width: 3;
+}
+
+.openData {
+    fill: #b2df8a;
+}
+
+.closeData {
+    fill: #e41a1c;
+}
